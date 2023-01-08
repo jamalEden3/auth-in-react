@@ -1,7 +1,9 @@
+import Register from "./Register";
+
 export default function App() {
 	return (
-	  <h1>
-		hey jamal andpsa
-	  </h1>
+	  <main>
+		<Register />
+	  </main>
 	);
   }
